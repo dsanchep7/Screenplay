@@ -1,7 +1,7 @@
 
 ![Image text](https://github.com/dsanchep7/Screenplay/tree/main/src/resource)
 
-div<img src="src/resource/reporte.jpg" height="400" width="650" />
+<img src="src/resource/reporte.jpg" height="400" width="650" />
 
 # Mi segundo reto
 
