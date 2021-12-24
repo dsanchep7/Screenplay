@@ -265,6 +265,5 @@ Es donde se arma la historia de usuario, la cual tiene una estructura inicial y 
       Then Habilitar en pantalla
       |Google Pixel 2 XL 64GB Unlocked0|
  ```
- ### Images
- 
+
  <img src="src/resource/reporte.jpg" height="400" width="650" />
