@@ -266,4 +266,4 @@ Es donde se arma la historia de usuario, la cual tiene una estructura inicial y 
       |Google Pixel 2 XL 64GB Unlocked0|
  ```
 
- <img src="src/resource/reporte.jpg" height="400" width="650" />
+![Image text](https://github.com/dsanchep7/Screenplay/tree/main/src/resource)
