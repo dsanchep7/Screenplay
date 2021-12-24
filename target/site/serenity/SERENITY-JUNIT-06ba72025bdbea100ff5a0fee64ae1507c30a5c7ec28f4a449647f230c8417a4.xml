@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="HU-001 Buscador Ebay" skipped="0" tests="2" time="26.96" timestamp="2021-12-24 12:24:16"><testcase name="Busqueda exitosa de un producto"/><testcase name="Busqueda fallida de un producto"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+taks.BuscadorEbay.performAs(BuscadorEbay.java:19)&#13;
+stepsDefinitions.EbayStepsFallidoYExitoso.hallarUnProducto(EbayStepsFallidoYExitoso.java:36)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
