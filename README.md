@@ -1,3 +1,7 @@
+
+![Image text](https://github.com/dsanchep7/Screenplay/tree/main/src/resource)
+
+
 # Mi segundo reto
 
 Mi segundo reto consta de realizar la automatización de ingreso y busqueda de productos en la paginan https://co.ebay.com/, con diferentes escenarios background,fallido y exitoso.
@@ -266,4 +270,3 @@ Es donde se arma la historia de usuario, la cual tiene una estructura inicial y 
       |Google Pixel 2 XL 64GB Unlocked0|
  ```
 
-![Image text](https://github.com/dsanchep7/Screenplay/tree/main/src/resource)
